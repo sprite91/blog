@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Hexo</title>
+  
+  
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2023-09-23T03:20:36.793Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>John Doe</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>nihao guoqing</title>
+    <link href="http://example.com/2023/09/23/nihao-guoqing/"/>
+    <id>http://example.com/2023/09/23/nihao-guoqing/</id>
+    <published>2023-09-23T03:19:41.000Z</published>
+    <updated>2023-09-23T03:20:36.793Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://blog-yingc.oss-cn-beijing.aliyuncs.com/img/202309231120186.png&quot;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>test blog</title>
+    <link href="http://example.com/2023/09/23/test-blog/"/>
+    <id>http://example.com/2023/09/23/test-blog/</id>
+    <published>2023-09-23T02:56:07.000Z</published>
+    <updated>2023-09-23T03:07:50.145Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://blog-yingc.oss-cn-beijing.aliyuncs.com/img/202309231107286.png&quot;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>my_first_blog</title>
+    <link href="http://example.com/2023/09/22/my-first-blog/"/>
+    <id>http://example.com/2023/09/22/my-first-blog/</id>
+    <published>2023-09-22T02:52:02.000Z</published>
+    <updated>2023-09-23T02:52:48.420Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;最近都在夏雨哪也没去&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://example.com/2023/09/17/hello-world/"/>
+    <id>http://example.com/2023/09/17/hello-world/</id>
+    <published>2023-09-17T06:34:28.617Z</published>
+    <updated>2023-09-17T06:33:36.773Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
